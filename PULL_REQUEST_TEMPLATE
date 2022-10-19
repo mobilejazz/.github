@@ -1,11 +1,9 @@
---- erase from here
-
-**Merge/Pull request title name template, please delete it before saving it**
-
+<!--
+Ensure that the title follows this template (or, just use the Asana task title):
 Task_number :: Project :: Story :: Task_type :: Task_name
+-->
+**:link: Asana: <URL>**
 
---- erase to here
+### Description
 
-**Merge / Pull request information:**
-
-* Asana task link: ___
+...
