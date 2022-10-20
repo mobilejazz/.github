@@ -1,9 +1,8 @@
 <!--
-Ensure that the PR title follows the Harmony standard:
+Ensure that the PR title follows the Harmony standard (* = REQUIRED):
 
-{TASK_ID*} :: {PROJECT} :: {STORY} :: {TASK_TYPE*} :: {PLATFORM} :: {TASK_TITLE*}
+*Task_ID :: Project :: Story :: *Task_Type(Feature|Feature Internal|Bug) :: Platform :: *Task_Title
 
-*: Required
 +INFO: https://harmony.mobilejazz.com/docs/best-practices/git-standardization
 -->
 **:link: Asana: ______**
