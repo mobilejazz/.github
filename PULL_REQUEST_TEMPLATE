@@ -1,9 +1,12 @@
 <!--
-Ensure that the title follows this template (or, just use the Asana task title):
-Task_number :: Project :: Story :: Task_type :: Task_name
+Ensure that the PR title follows the Harmony standard:
+
+{TASK_ID*} :: {PROJECT} :: {STORY} :: {TASK_TYPE*} :: {PLATFORM} :: {TASK_TITLE*}
+
+*: Required
++INFO: https://harmony.mobilejazz.com/docs/best-practices/git-standardization
 -->
 **:link: Asana: ______**
 
 ### Description
 
-...
