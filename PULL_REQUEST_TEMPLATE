@@ -1,11 +1,10 @@
---- erase from here
-
+<!--
 **Merge/Pull request title name template, please delete it before saving it**
 
-Task_number :: Project :: Story :: Task_type :: Task_name
+Task_number :: Project :: Story :: Task_type(Feature|Feature Internal|Bug) :: Task_name
 
---- erase to here
++info: https://harmony.mobilejazz.com/docs/best-practices/git-standardization
+-->
 
+* Asana task link:
 **Merge / Pull request information:**
-
-* Asana task link: ___
